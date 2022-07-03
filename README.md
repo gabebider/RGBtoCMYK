@@ -1,0 +1,3 @@
+# RGB to CMYK Color Space Converter
+
+This script will convert all images in the current directory from RGB to a CMYK color space. A CMYK colorspace is  generally needed for print. Simply clone this repo to your machine and then navigate in terminal to the directory containing your images that need to be converted. Then, run `bash <path to convert.sh>`. This will convert all the images in your current directory to CMYK and save them under `./converted`. The file names will be appended with "_CMYK".

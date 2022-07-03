@@ -4,13 +4,14 @@
 # ensure you install the imagemagick library (https://imagemagick.org/script/download.php) Windows Binary Release
 # run the file by double clicking on this bash file in the directory it's located in
 
+## FOR MAC:
 # You must have ImageMagick: https://imagemagick.org/script/index.php
-# for Mac open terminal and run "brew install imagemagick"
-# if you don't have homebrew (Mac): https://brew.sh/
+# If you don't have homebrew (Mac), first install homebrew: https://brew.sh/
+# Open terminal and run "brew install imagemagick"
+
+
 # Using command line, navigate to a directory with all of your images to be created
-# run "bash [PATH_TO_CONVERT.SH]" and all the files in the directory will be converted to CMYK
-# for FILE in *;
-# do 
+# run "bash <PATH_TO_CONVERT.SH>" and all the files in the directory will be converted to CMYK
 
 # replace spaces with underscores in file names
 
